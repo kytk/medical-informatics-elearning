@@ -1,2 +1,2 @@
-# neuroimaging-elearning
+# medical-informatics-elearning
 脳画像解析e-ラーニングのページに関係するスクリプトなどを置くためのリポジトリです
